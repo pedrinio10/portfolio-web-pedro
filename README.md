@@ -1,6 +1,5 @@
 # 🌐 Portfolio Web – Pedro Pérez
 
-![Portfolio Preview](img/perfil.jpg)
 
 Este es mi portfolio personal, desarrollado para mostrar mis proyectos, habilidades y experiencia como **desarrollador backend y estudiante de Ingeniería en Sistemas en la UTN Córdoba**.
 
